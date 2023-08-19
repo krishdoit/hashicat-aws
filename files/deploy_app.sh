@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to BALA's CHIP program.
+=======
+  Welcome to BALA's chip program.
+>>>>>>> 110875fa144809fe83cebd194764da235ba0a394
   <!-- END -->
 
   </div>
